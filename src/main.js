@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import './assets/main.css'
 
 import { createApp } from 'vue'
